@@ -6,4 +6,5 @@
   <Project Path="CP3/CP3.csproj" />
   <Project Path="CP4/CP4.csproj" Id="73c06736-e41b-4a27-8b54-a08b12816488" />
   <Project Path="CP5/CP5.csproj" Id="1d34eb71-fd5e-4926-bd65-f243d5fd6470" />
+  <Project Path="CP6/CP6.csproj" Id="1781c557-63fd-4837-8afa-6d8c944d0511" />
 </Solution>
