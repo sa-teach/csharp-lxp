@@ -4,4 +4,5 @@
   </Folder>
   <Project Path="CP2/CP2.csproj" />
   <Project Path="CP3/CP3.csproj" />
+  <Project Path="CP4/CP4.csproj" Id="73c06736-e41b-4a27-8b54-a08b12816488" />
 </Solution>
